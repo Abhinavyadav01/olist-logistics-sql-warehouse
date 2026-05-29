@@ -1,0 +1,10 @@
+# Ignore raw datasets
+datasets
+
+# Temporary files
+*.tmp
+*.log
+
+# OS junk
+Thumbs.db
+.DS_Store
