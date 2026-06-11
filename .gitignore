@@ -1,5 +1,6 @@
 # Ignore raw datasets
 datasets
+olist_gold_exports
 
 # Temporary files
 *.tmp
