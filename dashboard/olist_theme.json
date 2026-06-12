@@ -1,0 +1,22 @@
+{
+  "name": "Olist Premium Dark",
+  "dataColors": [
+    "#2F81F7",
+    "#3FB950",
+    "#D29922",
+    "#F85149",
+    "#A371F7",
+    "#58A6FF"
+  ],
+  "background": "#0D1117",
+  "foreground": "#E6EDF3",
+  "tableAccent": "#2F81F7",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1C2128"}}}],
+        "border": [{"color": {"solid": {"color": "#30363D"}}}]
+      }
+    }
+  }
+}
